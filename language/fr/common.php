@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* Email List (French)
+* Email List [French]
 *
 * @package phpBB Extension - Email List
 * @copyright (c) 2015 dmzx - http://www.dmzx-web.net
